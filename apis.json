@@ -1,0 +1,57 @@
+{
+    "name": "New York Federal Reserve Foreign Exchange",
+    "description": "The Federal Reserve Bank of New York plays a leadership role in monetary policy, financial supervision and the payments system.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1449-new-york-federal-reserve-foreign-exchange.jpg",
+    "tags": [
+        "api provider",
+        "currencies",
+        "exchange",
+        "financial",
+        "financial services",
+        "have api",
+        "international"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/new-york-federal-reserve-foreign-exchange\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "New York Federal Reserve Foreign Exchange",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1449-new-york-federal-reserve-foreign-exchange.jpg",
+            "humanURL": "http:\/\/www.newyorkfed.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/new-york-federal-reserve-foreign-exchange-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.newyorkfed.org\/xml\/data\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/federal-reserve-bank-of-new-york"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.newyorkfed.org\/xml\/fx.html"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.newyorkfed.org"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/NewYorkFed"
+        }
+    ]
+}
