@@ -11,8 +11,8 @@
         "have api",
         "international"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/new-york-federal-reserve-foreign-exchange\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -26,13 +26,17 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/new-york-federal-reserve-foreign-exchange-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/new-york-federal-reserve-foreign-exchange\/master\/new-york-federal-reserve-foreign-exchange-openapi.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Base",
             "url": "http:\/\/www.newyorkfed.org\/xml\/data\/"
